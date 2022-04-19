@@ -1,0 +1,122 @@
+body{
+	margin: 0;
+    padding: 0;
+	weight: 100%;	
+}
+nav {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-items: flex-start;
+	margin-top: 110px;
+	
+}
+
+.titulo{
+	
+	
+	font-family: 'PT Serif';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 48px;
+	letter-spacing: -0.045em;
+	
+	color: #000000;
+	
+
+}
+
+
+.parrafo h1{
+	
+	width: 117px;
+	height: 27px;
+	left: 736px;
+	top: 110px;
+	
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+	/* identical to box height */
+	
+	text-transform: uppercase;
+	
+	color: #000000;
+}
+
+.parrafo p {
+	position: ;
+	width: 439px;
+	height: 87px;
+	left: 736px;
+	top: 147px;
+	
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 27px;
+	
+	color: #000000;
+}
+
+/* SECCION IMAGENES*/
+
+
+#imagenes{
+	display: flex;
+	flex-flow: row wrap ;
+	justify-content: center;
+	align-items: stretch;
+	
+	
+}
+
+#perfil{
+	
+	display: flex;
+	margin: 20px;
+	justify-content: center;
+	
+}
+
+.text{
+	position: absolute;
+	font-family: 'PT Serif';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	/* identical to box height */
+	
+	text-transform: uppercase;
+	
+	color: #000000;
+	
+	writing-mode: vertical-rl;
+
+}
+
+.name {
+	width: 200px;
+	height: 27px;
+	left: 240px;
+	top: 686px;
+	
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+	/* identical to box height */
+	
+	
+	color: #000000;
+}
+
+img{
+	weight: 347px;
+	height: 238px;
+}
